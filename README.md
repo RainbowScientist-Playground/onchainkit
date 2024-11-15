@@ -67,8 +67,8 @@ For documentation and guides, visit [onchainkit.xyz](https://onchainkit.xyz/).
 - [Léo Galley](https://github.com/kirkas)
 - [Adam Lessey](https://github.com/alessey) ([X](https://twitter.com/alessey))
 
-## 💫  Contributors
-
+  ## 💫  Contributors.
+  
 <a href="https://github.com/coinbase/onchainkit/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=coinbase/onchainkit" />
 </a>
